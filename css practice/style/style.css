@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../images/bgi.jpg);
+    background-size: cover;
+    background-position: fixed;
+}
+header{
+    background-color: black;
+    height: 70px;
+}
+#logo{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+nav{
+    float: right;
+    margin-top: 25px;
+    margin-right: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 7px;
+    margin-right: 10px;
+}
+
+nav a:hover{
+    background-color: teal;
+    color: black;
+}
+aside{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:100px;
+    float: left;
+}
+aside li{
+    padding: 5px;
+    list-style: square;
+}
+form{
+    border: 1px solid red;
+    float: right;
+    background-color: beige;
+    margin-top: 60px;
+    margin-right: 20px;
+    padding: 20px;
+    height: 15em;
+}
+form h2{
+    text-align: center;
+}
+form button{
+    width: 100%;
+    background-color: dodgerblue;
+    border: none;
+    padding: 3px;
+}
+.container{
+    margin-top: 35%;
+    margin-left: 60px;
+}
+.con1{
+    border: 1px solid white;
+    float: left;
+    height: 13em;
+    width: 22%;
+    margin-right: 5px;
+    background-color: lightgray;
+}
+.container h3{
+    text-align: center;
+}
+.container p{
+    text-align: justify;
+}
+.container a{
+    color: red;
+    text-decoration: none;
+}
+footer {
+    background-color: black;
+    color: white;
+    height: 2em;
+    margin-top: 58%;
+    text-align: center;
+}

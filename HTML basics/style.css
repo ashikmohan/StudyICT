@@ -1,0 +1,27 @@
+h2{
+    color: blueviolet;
+    text-decoration: dashed;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+    font-weight: bolder;
+}
+div{
+    color: chartreuse;
+    text-align: center;
+    text-decoration: dotted;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 50;
+}
+#second{
+    color: red;
+    text-align: left;
+}
+.text{
+    color: yellowgreen;
+    border: 3px dotted red;
+   margin: 30px 40px 50px;
+   padding: 30px 40px 30px;
+}
+span{
+    background-color: aqua;
+}

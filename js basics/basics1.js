@@ -75,7 +75,8 @@
 // }while(i>2)
 
 // for..of loop
-let students =['Hari','Ram','Shine']
-for(let student of students){
-    console.log(`hello ${student}` )
-}
+// let students =['Hari','Ram','Shine']
+// for(let student of students){
+//     console.log(`hello ${student}` )
+// }
+

@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/bgi.jpg);
+    background-size: cover;
+}
+img{
+    margin-left: 110px;
+}
+.nav-item{
+    border: 1px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+.nav-item a:hover{
+    background-color: teal;
+    color: black !important;
+
+}
+.container{
+    margin-top: 150px;
+    
+}
+.textall{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text{
+    list-style-type: square;
+}
+.formlog{
+    background-color: beige;
+    border: 2px solid red;
+    width: 70%;
+}
+#but{
+    width: 100%;
+}
+.card-body{
+    background-color: gainsboro;
+    
+}
+.card{
+    border: 2px solid white;
+}
+#sticky-footer{
+    margin-top: 100px;
+    height: 30px;
+    
+}
